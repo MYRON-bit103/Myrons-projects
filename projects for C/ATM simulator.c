@@ -6,6 +6,8 @@ int main(){
     int choice;
     double amount;
 
+    prinf("WELCOME TO ATM:");
+
     while(1){
         printf("\n====ATM BANKING SYSTEM====\n");
         printf(" 1. Check Balance\n");
