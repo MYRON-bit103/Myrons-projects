@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/myron/Myron projects/projects for C/Myrons-projects/projects for C/output/testing'
+relocations:     []
+...
